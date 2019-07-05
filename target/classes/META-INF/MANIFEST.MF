@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vanius
+Build-Jdk: 11.0.1
+Implementation-Title: workshop-springboot-mongodb
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.vanius
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/workshop-springboot-mongodb
+Created-By: Maven Integration for Eclipse
+
