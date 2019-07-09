@@ -20,6 +20,8 @@ public class Instanttiation implements CommandLineRunner {
 		
 		userRepo.deleteAll();
 		
+		System.out.println("Oba Oba nhac nhac");
+		
 		User maria = new User(null, "Maria Brown", "maria@gmail.com");
 		User alex = new User(null, "Alex Green", "alex@gmail.com");
 		User bob = new User(null, "Bob Grey", "bob@gmail.com");
