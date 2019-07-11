@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: vaniu
+Built-By: vanius
 Build-Jdk: 12.0.1
 Implementation-Title: workshop-springboot-mongodb
 Implementation-Version: 0.0.1-SNAPSHOT
